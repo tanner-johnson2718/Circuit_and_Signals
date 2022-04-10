@@ -1,1 +1,18 @@
-# Circuit_and_Signals
+# Circuits And Signals
+- Resitors par + series
+- Caps par + series
+- ADCs
+- thermistors
+- Analgo MUX
+- Filters
+   - Simple Passive
+   - Simple Active
+   - FIR
+ - Gains
+ - Op amp
+ - Single buffer driver
+ - Inductors
+ - Voltage regulators
+ - MOSFET
+ - flip flops and latches
+ - Logic Gates
