@@ -8,11 +8,31 @@
    - Simple Passive
    - Simple Active
    - FIR
- - Gains
- - Op amp
- - Single buffer driver
- - Inductors
- - Voltage regulators
- - MOSFET
- - flip flops and latches
- - Logic Gates
+   - High pass
+   - low pass
+- Gains
+- Op amp
+- Single buffer driver
+- Inductors
+- Voltage regulators
+- MOSFET
+- flip flops and latches
+- Logic Gates
+- Diodes
+- Transformers
+- Inverters
+- Battery controlers
+- Servos
+- DC motors
+- Steppers
+- Brushless motors
+- Transistor
+- Baromter
+- Pressure sensor
+- Rotor encoder
+- Hall effect sensor
+- O2 sensor
+- Half and Full Bridge Wave Rectifier
+- LEDs
+- Solinoid
+- Impedence
